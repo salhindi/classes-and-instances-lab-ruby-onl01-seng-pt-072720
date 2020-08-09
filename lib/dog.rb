@@ -1,5 +1,5 @@
-class dog
-  fido.dog.new
-  snoopy.dog.new
-  lassie.dog.new
+class Dog
+  fido.Dog.new
+  snoopy.Dog.new
+  lassie.Dog.new
 end
