@@ -1,2 +1,2 @@
 class dog
-  
+  fido.
